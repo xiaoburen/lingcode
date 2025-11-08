@@ -16,8 +16,8 @@
 
 | 平台       | 状态       | 技术栈                    |
 |------------|------------|---------------------------|
-| Windows    | 🚀 开发中  | Tauri 2 + egui            |
 | macOS      | 🚀 开发中  | Tauri 2 + egui + rime-rs  |
+| Windows    | 🚀 开发中  | Tauri 2 + egui            |
 | Linux      | ⏳ 规划中  | Tauri 2 + egui            |
 | iOS        | ⏳ 规划中  | Rust + Swift              |
 | Android    | ⏳ 规划中  | Rust + Flutter            |
