@@ -1,0 +1,12 @@
+[package]
+name = "dict"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# 在这里添加字典库的依赖项，例如：
+# serde = { version = "1.0", features = ["derive"] }
+# 或者其他需要的库
+
+[lib]
+crate-type = ["cdylib", "rlib"]

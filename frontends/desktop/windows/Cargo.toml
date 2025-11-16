@@ -1,0 +1,13 @@
+[package]
+name = "lingcode-rime-windows"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Add dependencies specific to the Windows frontend here
+# For example:
+# winit = "0.25"  # Window creation and event handling
+# glutin = "0.26" # OpenGL context creation and management
+
+[lib]
+crate-type = ["cdylib"]

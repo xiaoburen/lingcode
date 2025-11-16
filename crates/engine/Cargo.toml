@@ -1,0 +1,12 @@
+[package]
+name = "engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core = { path = "../core" }
+pinyin = { path = "../pinyin" }
+double-pinyin = { path = "../double-pinyin" }
+dict = { path = "../dict" }
+converters = { path = "../converters" }
+ffi = { path = "../ffi" }

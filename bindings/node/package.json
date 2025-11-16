@@ -1,0 +1,32 @@
+{
+  "name": "lingcode-rime",
+  "version": "0.1.0",
+  "description": "Node.js bindings for the LingCode Rime input method framework.",
+  "main": "src/napi.js",
+  "scripts": {
+    "build": "cargo build --release",
+    "test": "cargo test"
+  },
+  "dependencies": {
+    "napi": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/lingcode-rime.git"
+  },
+  "keywords": [
+    "input-method",
+    "rime",
+    "rust",
+    "node"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/lingcode-rime/issues"
+  },
+  "homepage": "https://github.com/yourusername/lingcode-rime#readme"
+}

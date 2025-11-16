@@ -1,0 +1,10 @@
+[package]
+name = "double-pinyin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Add dependencies here as needed
+
+[lib]
+crate-type = ["cdylib", "rlib"]
