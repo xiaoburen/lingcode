@@ -38,7 +38,7 @@ To get started with the LingCode Rime project, clone the repository and build th
 
 ```bash
 git clone <repository-url>
-cd lingcode-rime-rs
+cd LingCode
 cargo build
 ```
 
