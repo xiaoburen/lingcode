@@ -1,6 +1,6 @@
-# LingCode Rime Rust Input Method Framework
+# LingCode Input Method Framework
 
-LingCode Rime is a Rust-based input method framework that aims to provide a flexible and efficient way to input Chinese characters using Pinyin (Simplified and Traditional) and Double Pinyin. This project is designed to be cross-platform, supporting Windows, macOS, Linux, iOS, and Android.
+LingCode is a Rust-based input method framework that aims to provide a flexible and efficient way to input Chinese characters using Pinyin (Simplified and Traditional) and Double Pinyin. This project is designed to be cross-platform, supporting Windows, macOS, Linux, iOS, and Android.
 
 ## Features
 
@@ -40,7 +40,7 @@ LingCode Rime is a Rust-based input method framework that aims to provide a flex
 
 ## Getting Started
 
-To get started with the LingCode Rime project, clone the repository and build the project using Cargo:
+To get started with the LingCode project, clone the repository and build the project using Cargo:
 
 ```bash
 git clone <repository-url>
